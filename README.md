@@ -5,4 +5,4 @@ Automatically join every Zoom class at any hour of the week
 Install pyautogui, schedule and cv2 (pip install), and take a screenshot of Zoom's Join Button	
 
 ### Things you should do	
-Add the run.bat to you startup folder so that the program runs every morning when you turn on your PC
+Add the run.bat to your startup folder so that the program runs every morning when you turn on your PC
