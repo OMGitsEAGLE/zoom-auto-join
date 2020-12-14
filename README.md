@@ -1,4 +1,4 @@
 # zoom-auto-join
 
-# Make sure to install pyautogui and cv2 or will not work
-# Take screenshot of Zoom Join button as png and use its path in script
+# Things you need to do
+Install pyautogui and cv2, as well as take a screenshot of Zoom's Join Button.
